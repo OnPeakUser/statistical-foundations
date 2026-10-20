@@ -6,7 +6,6 @@ A self-contained reference that runs from describing data to modern computationa
 |---|---|
 | **[Statistical_Foundations_with_Exercises.pdf](Statistical_Foundations_with_Exercises.pdf)** | The full text (148 pages) with 193 exercises at the end of the chapters |
 | **[Statistical_Foundations_Answer_Key.pdf](Statistical_Foundations_Answer_Key.pdf)** | Worked solutions to every exercise (50 pages) |
-| [Statistical_Foundations.pdf](Statistical_Foundations.pdf) | The original 112-page text without exercises |
 
 ## Contents
 
