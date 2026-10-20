@@ -1,8 +1,12 @@
 # Statistical Foundations for Quantitative Work
 
-A self-contained, 112-page reference that runs from describing data to modern computational methods.
+A self-contained reference that runs from describing data to modern computational methods.
 
-**[Read the PDF →](Statistical_Foundations.pdf)**
+| File | What it is |
+|---|---|
+| **[Statistical_Foundations_with_Exercises.pdf](Statistical_Foundations_with_Exercises.pdf)** | The full text (148 pages) with 193 exercises at the end of the chapters |
+| **[Statistical_Foundations_Answer_Key.pdf](Statistical_Foundations_Answer_Key.pdf)** | Worked solutions to every exercise (50 pages) |
+| [Statistical_Foundations.pdf](Statistical_Foundations.pdf) | The original 112-page text without exercises |
 
 ## Contents
 
@@ -11,3 +15,7 @@ A self-contained, 112-page reference that runs from describing data to modern co
 - **Part III. Inference:** sampling distributions, the Central Limit Theorem, estimation, confidence intervals, hypothesis testing
 - **Part IV. Relationships and Regression:** covariance, correlation, linear and multiple regression, and diagnostics (heteroskedasticity, autocorrelation, multicollinearity, influential observations)
 - **Part V. Further Methods:** ANOVA, nonparametrics, time series, logistic regression and GLMs, Bayesian inference, bootstrap, cross-validation, regularization
+
+## Exercises
+
+Each of the 18 chapters ends with 8 to 13 exercises: hand calculations, short derivations, and interpretation questions. A star marks the harder ones. A few are marked *Computer* and call for a few lines of code; their answers come from simulation and will vary slightly with the random seed.
